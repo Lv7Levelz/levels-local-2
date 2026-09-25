@@ -27,3 +27,6 @@ Before production launch:
 3. Replace the pre-launch privacy notice when analytics/forms are introduced.
 4. Connect a real form backend if desired.
 5. Add only verified testimonials, client work and measurable results.
+
+## WhatsApp
+Floating click-to-chat button configured for `447365309705` with a pre-filled website enquiry message.
